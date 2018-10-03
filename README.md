@@ -1,4 +1,4 @@
-# Smiling-or-Not-Smiling
+# Smiling or Not Smiling
 
 
 Smilling or Not Smiling là project sử dụng việc nhận biết đối tượng người đang có hành động biểu cảm cười hay không . Project này giải quyết 2 bài toán là face detection và facial emotion recognition . 
