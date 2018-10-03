@@ -12,7 +12,7 @@ Face detection trong project sử dụng thuật toán haar cascade để tìm �
 Facical emotion recognize là bài toán đưa ra kết quả biểu cảm khuôn mặt của người , vì hardware không đủ tốt để train tất cả cảm xúc người nên chỉ train "smiling" biểu cảm con người . Thuật toán dùng để giải cho bài toán này là convolution neural network (CNN) .Loại architecture CNN để giải bài toán này là LeNet-5 . Dùng thuật toán này giúp cho việc học biểu cảm con người (biểu cảm ở đây là "Smiling" or "Not Smiling") . Data để train thuật toán này bao gồm 2 tập "Smiling" (là những tập gồm biểu cảm cười của con người) và tập "Not Smiling" (là những tập không cười ) .
 
 Nhiệm vụ trong nhóm project :
-- Kiệt tìm kiếm hình ảnh và cắt ảnh cho dữ liệu face detection
+- Kiệt tìm kiếm hình ảnh và cắt ảnh cho dữ liệu face detection.
 - Hoàng tìm kiếm hình ảnh và cắt ảnh cho dữ liệu facial emotion recognize .
-- A.Luân viết thuật cho haar cascade
-- Cường viết thuật cho Facial emotion recognize .
+- A.Luân viết thuật cho haar cascade.
+- Cường viết thuật cho Facial emotion recognize.
